@@ -1,0 +1,35 @@
+{
+  "type": "dtabundance:flowering_jacaranda",
+  "family": "dtabundance:jacaranda",
+  "tapering": 0.3,
+  "signal_energy": 12.0,
+  "leaves_properties": "dtabundance:budding_jacaranda",
+  "environment_factors": {
+    "cold": 0.75,
+    "hot": 0.5,
+    "dry": 0.5,
+    "forest": 1.05
+  },
+  "perfect_biomes": {
+    "types": [
+      "forest",
+      "overworld"
+    ]
+  },
+  "ocmmon_override": {
+  },
+  "always_show_on_waila": true,
+  "generate_seed": false,
+  "generate_sapling": true,
+  "features": [
+    {
+      "name": "alt_leaves",
+      "properties": {
+        "alternative_leaves": "dtabundance:flowering_jacaranda",
+        "place_chance": 0.6,
+        "quantity": 5
+      }
+    },
+    "bee_nest"
+  ]
+}

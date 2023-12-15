@@ -1,0 +1,8 @@
+{
+    "type": "dtabundance:redbud",
+    "common_leaves":"dtabundance:redbud",
+    "common_species":"dtabundance:redbud",
+    "primitive_log":"abundance:redbud_log",
+    "primitive_stripped_log":"abundance:stripped_redbud_log",
+    "max_branch_radius":8
+}

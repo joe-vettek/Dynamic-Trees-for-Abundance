@@ -1,0 +1,7 @@
+{
+    "loader":"dynamictrees:branch",
+    "textures":{
+        "bark":"abundance:block/flowering_redbud_log",
+        "rings":"abundance:block/redbud_log_top"
+    }
+}

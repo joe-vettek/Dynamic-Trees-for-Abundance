@@ -1,0 +1,116 @@
+[
+  {
+    "__comment": "Cancel standard tree features from the overworld.",
+    "select": {
+      "OR": [
+        {
+          "name": "abundance:.*"
+        },
+        {
+          "names": [ "minecraft:.*badlands.*"]
+        }
+      ]
+    },
+    "cancellers": {
+      "types": [
+        "tree"
+      ],
+      "namespaces": [
+        "minecraft",
+        "abundance"
+      ]
+    }
+  },
+  {
+    "select": {
+      "AND": [
+        {
+          "name": "abundance:.*"
+        },
+        {
+          "type": "!forest"
+        }
+      ]
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dtabundance:jacaranda": 5,
+          "dtabundance:flowering_redbud": 1
+        }
+      },
+      "density": [
+        0.1
+      ],
+      "chance": 0.2,
+      "forestness": 1.0
+    }
+  },
+  {
+    "select": {
+      "AND": [
+        {
+          "name": "abundance:.*"
+        },
+        {
+          "type": "forest"
+        }
+      ]
+    },
+    "apply": {
+      "species": {
+        "random": {
+          "dtabundance:jacaranda": 5,
+          "dtabundance:flowering_redbud": 1
+        }
+      },
+      "density": [
+        0.8
+      ],
+      "chance": 0.8,
+      "forestness": 1.0
+    }
+  },
+  {
+    "select": {
+      "type": "plains"
+    },
+    "apply": {
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dtabundance:redbud": 1,
+          "...": 64
+        }
+      }
+    }
+  },
+  {
+    "select": {
+      "type": "forest"
+    },
+    "apply": {
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dtabundance:redbud": 1,
+          "...": 256
+        }
+      }
+    }
+  },
+  {
+    "select": {
+      "names": [ "minecraft:.*badlands.*" ]
+    },
+    "apply": {
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dtabundance:saguaro_cactus": 1,
+          "...": 5
+        }
+      }
+    }
+  }
+]

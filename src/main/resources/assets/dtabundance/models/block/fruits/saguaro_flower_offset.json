@@ -1,0 +1,6 @@
+{
+  "parent": "dtabundance:block/cross_offset",
+  "textures": {
+    "cross": "abundance:block/saguaro_flower"
+  }
+}

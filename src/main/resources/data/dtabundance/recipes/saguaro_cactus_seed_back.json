@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dynamictrees:dirt_bucket"
+    },
+    {
+      "item": "dtabundance:saguaro_cactus_seed"
+    }
+  ],
+  "result": {
+    "item": "abundance:saguaro_flower",
+    "count": 1
+  }
+}

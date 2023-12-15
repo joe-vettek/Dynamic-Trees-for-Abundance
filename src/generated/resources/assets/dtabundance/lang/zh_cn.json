@@ -1,0 +1,20 @@
+{
+  "block.dtabundance.flowering_jacaranda_sapling": "开花蓝花楹树苗",
+  "block.dtabundance.flowering_redbud_sapling": "开花紫荆树苗",
+  "block.dtabundance.jacaranda_branch": "蓝花楹木",
+  "block.dtabundance.jacaranda_sapling": "蓝花楹树苗",
+  "block.dtabundance.redbud_branch": "紫荆木",
+  "block.dtabundance.redbud_sapling": "紫荆树苗",
+  "block.dtabundance.saguaro_cactus_branch": "树形仙人掌",
+  "block.dtabundance.saguaro_cactus_sapling": "树形仙人掌幼苗",
+  "block.dtabundance.saguaro_flower": "树形仙人掌花",
+  "item.dtabundance.flowering_redbud_seed": "开花紫荆种子",
+  "item.dtabundance.jacaranda_seed": "蓝花楹种子",
+  "item.dtabundance.redbud_seed": "紫荆种子",
+  "item.dtabundance.saguaro_cactus_seed": "树形仙人掌种子",
+  "species.dtabundance.flowering_jacaranda": "开花蓝花楹树",
+  "species.dtabundance.flowering_redbud": "开花紫荆树",
+  "species.dtabundance.jacaranda": "蓝花楹树",
+  "species.dtabundance.redbud": "紫荆树",
+  "species.dtabundance.saguaro_cactus": "树形仙人掌"
+}

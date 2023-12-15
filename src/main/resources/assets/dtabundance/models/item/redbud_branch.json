@@ -1,0 +1,7 @@
+{
+    "parent":"dynamictrees:item/branch",
+    "textures":{
+        "bark":"abundance:block/redbud_log",
+        "rings":"abundance:block/redbud_log_top"
+    }
+}

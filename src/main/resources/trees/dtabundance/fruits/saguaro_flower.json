@@ -1,0 +1,11 @@
+{
+  "only_if_loaded": "dynamictreesplus",
+  "type": "dynamictreesplus:cactus_fruit",
+  "block_registry_name": "saguaro_flower",
+  "item_stack": "dtabundance:saguaro_cactus_seed",
+  "max_age":1,
+  "block_shapes": [
+    { "function": "fruit", "parameters": { "radius": 6, "height": 8, "stem_length": 13 } },
+    { "function": "fruit", "parameters": { "radius": 6, "height": 8, "stem_length": 13 } }
+  ]
+}

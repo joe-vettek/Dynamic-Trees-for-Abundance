@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "xueluoanping.dtabundance.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dtabundance.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

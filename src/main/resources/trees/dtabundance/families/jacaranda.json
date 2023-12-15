@@ -1,0 +1,7 @@
+{
+    "common_leaves": "dtabundance:jacaranda",
+    "common_species":"dtabundance:jacaranda",
+    "primitive_log":"abundance:jacaranda_log",
+    "primitive_stripped_log":"abundance:stripped_jacaranda_log",
+    "max_branch_radius":8
+}

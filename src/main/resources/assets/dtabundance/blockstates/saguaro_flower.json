@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "is_offset=false": {
+      "model": "abundance:block/saguaro_flower"
+    },
+    "is_offset=true": {
+      "model": "dtabundance:block/fruits/saguaro_flower_offset"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictreesplus:cactus",
+  "textures": {
+    "bark": "abundance:block/saguaro_cactus_side",
+    "rings": "abundance:block/saguaro_cactus_top"
+  }
+}

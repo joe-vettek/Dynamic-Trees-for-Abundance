@@ -1,0 +1,8 @@
+{
+    "parent":"dynamictrees:block/smartmodel/sapling",
+    "textures":{
+        "particle":"abundance:block/jacaranda_leaves",
+        "log":"abundance:block/jacaranda_log",
+        "leaves":"abundance:block/jacaranda_leaves"
+    }
+}

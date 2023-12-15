@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dtabundance:flowering_jacaranda_sapling",
+    "dtabundance:flowering_redbud_sapling",
+    "dtabundance:jacaranda_sapling",
+    "dtabundance:redbud_sapling",
+    "dtabundance:saguaro_cactus_sapling"
+  ]
+}

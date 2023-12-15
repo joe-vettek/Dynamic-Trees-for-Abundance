@@ -1,0 +1,21 @@
+{
+  "block.dtabundance.flowering_jacaranda_sapling": "Flowering Jacaranda Sapling",
+  "block.dtabundance.flowering_redbud_sapling": "Flowering Redbud Sapling",
+  "block.dtabundance.jacaranda_branch": "Jacaranda Tree",
+  "block.dtabundance.jacaranda_sapling": "Jacaranda Sapling",
+  "block.dtabundance.redbud_branch": "Redbud Tree",
+  "block.dtabundance.redbud_sapling": "Redbud Sapling",
+  "block.dtabundance.saguaro_cactus_branch": "Saguaro Cactus",
+  "block.dtabundance.saguaro_cactus_sapling": "Saguaro Seedling",
+  "block.dtabundance.saguaro_flower": "Saguaro Flower",
+  "dtabundance": "Dynamic Trees for Abundance",
+  "item.dtabundance.flowering_redbud_seed": "Flowering Redbud Seed",
+  "item.dtabundance.jacaranda_seed": "Jacaranda Seed",
+  "item.dtabundance.redbud_seed": "Redbud Seed",
+  "item.dtabundance.saguaro_cactus_seed": "Saguaro Cactus Seed",
+  "species.dtabundance.flowering_jacaranda": "Flowering Jacaranda",
+  "species.dtabundance.flowering_redbud": "Flowering Redbud",
+  "species.dtabundance.jacaranda": "Jacaranda",
+  "species.dtabundance.redbud": "Redbud",
+  "species.dtabundance.saguaro_cactus": "Saguaro Cactus"
+}

@@ -1,0 +1,8 @@
+{
+  "only_if_loaded": "dynamictreesplus",
+  "type": "dtabundance:saguaro_cactus",
+  "common_leaves": "bare",
+  "primitive_log": "abundance:saguaro_cactus",
+  "stick": "air",
+  "generate_stripped_branch": false
+}
